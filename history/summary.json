@@ -4,19 +4,19 @@
     "url": "https://varitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 899,
-    "timeDay": 913,
-    "timeWeek": 938,
-    "timeMonth": 899,
-    "timeYear": 899,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 897,
+    "timeDay": 889,
+    "timeWeek": 927,
+    "timeMonth": 897,
+    "timeYear": 897,
     "dailyMinutesDown": {
-      "2023-01-25": 19
+      "2023-01-25": 23
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://barefootedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1107,
-    "timeDay": 1124,
-    "timeWeek": 1138,
-    "timeMonth": 1107,
-    "timeYear": 1107,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1105,
+    "timeDay": 1099,
+    "timeWeek": 1128,
+    "timeMonth": 1105,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2023-01-25": 19
+      "2023-01-25": 23
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://karunodaya.in/",
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 878,
-    "timeDay": 893,
-    "timeWeek": 910,
-    "timeMonth": 878,
-    "timeYear": 878,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 882,
+    "timeDay": 917,
+    "timeWeek": 916,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-01-25": 17
+      "2023-01-25": 21
     }
   }
 ]
