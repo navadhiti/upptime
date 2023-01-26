@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "98.39%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 897,
-    "timeDay": 889,
-    "timeWeek": 927,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 899,
+    "timeDay": 888,
+    "timeWeek": 934,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2023-01-25": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1105,
-    "timeDay": 1099,
-    "timeWeek": 1128,
-    "timeMonth": 1105,
-    "timeYear": 1105,
+    "time": 1108,
+    "timeDay": 1096,
+    "timeWeek": 1140,
+    "timeMonth": 1108,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2023-01-25": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 411,
-    "timeWeek": 401,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "time": 527,
+    "timeDay": 433,
+    "timeWeek": 394,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 882,
-    "timeDay": 917,
-    "timeWeek": 916,
-    "timeMonth": 882,
-    "timeYear": 882,
+    "time": 885,
+    "timeDay": 926,
+    "timeWeek": 923,
+    "timeMonth": 885,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2023-01-25": 21
     }
