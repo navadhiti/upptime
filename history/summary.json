@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 897,
-    "timeDay": 986,
-    "timeWeek": 907,
-    "timeMonth": 906,
-    "timeYear": 897,
+    "time": 895,
+    "timeDay": 839,
+    "timeWeek": 911,
+    "timeMonth": 902,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2023-01-25": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1107,
-    "timeDay": 1206,
-    "timeWeek": 1123,
-    "timeMonth": 1118,
-    "timeYear": 1107,
+    "time": 1105,
+    "timeDay": 1000,
+    "timeWeek": 1131,
+    "timeMonth": 1112,
+    "timeYear": 1105,
     "dailyMinutesDown": {
       "2023-01-25": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 402,
+    "time": 517,
+    "timeDay": 672,
     "timeWeek": 495,
-    "timeMonth": 469,
-    "timeYear": 514,
+    "timeMonth": 479,
+    "timeYear": 517,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptime": "97.86%",
+    "uptimeDay": "10.48%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.86%",
     "time": 890,
-    "timeDay": 953,
-    "timeWeek": 894,
+    "timeDay": 0,
+    "timeWeek": 917,
     "timeMonth": 902,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-02-15": 0,
+      "2023-02-16": 107,
+      "2023-02-15": 1182,
       "2023-01-25": 21
     }
   }
