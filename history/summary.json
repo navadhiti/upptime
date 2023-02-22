@@ -44,9 +44,9 @@
     "url": "https://navadhiti.com",
     "icon": "https://icons.duckduckgo.com/ip3/navadhiti.com.ico",
     "slug": "navadhiti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 531,
     "timeMonth": 495,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-22": 0
+    }
   },
   {
     "name": "Karunodaya",
@@ -63,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "down",
-    "uptime": "85.78%",
+    "uptime": "85.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.51%",
-    "uptimeMonth": "77.29%",
-    "uptimeYear": "85.78%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.88%",
+    "uptimeYear": "85.56%",
     "time": 890,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 901,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-02-22": 105,
+      "2023-02-22": 285,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
