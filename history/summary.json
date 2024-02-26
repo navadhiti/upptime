@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
-    "time": 904,
-    "timeDay": 952,
-    "timeWeek": 963,
-    "timeMonth": 912,
+    "time": 905,
+    "timeDay": 1030,
+    "timeWeek": 966,
+    "timeMonth": 916,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -46,8 +46,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
     "time": 1121,
-    "timeDay": 1232,
-    "timeWeek": 1204,
+    "timeDay": 1184,
+    "timeWeek": 1198,
     "timeMonth": 1118,
     "timeYear": 1124,
     "dailyMinutesDown": {
@@ -68,15 +68,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/navadhiti.com.ico",
     "slug": "navadhiti",
     "status": "up",
-    "uptime": "92.84%",
+    "uptime": "92.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "92.60%",
-    "time": 1401,
-    "timeDay": 1698,
-    "timeWeek": 1664,
-    "timeMonth": 1508,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "92.87%",
+    "time": 1402,
+    "timeDay": 1674,
+    "timeWeek": 1668,
+    "timeMonth": 1530,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2024-01-25": 16,
@@ -109,8 +109,7 @@
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
-      "2023-02-27": 1440,
-      "2023-02-26": 1440
+      "2023-02-27": 1440
     }
   },
   {
@@ -119,14 +118,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "up",
-    "uptime": "86.04%",
+    "uptime": "86.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.76%",
+    "uptimeYear": "87.04%",
     "time": 884,
-    "timeDay": 956,
-    "timeWeek": 949,
+    "timeDay": 935,
+    "timeWeek": 945,
     "timeMonth": 883,
     "timeYear": 883,
     "dailyMinutesDown": {
@@ -180,8 +179,7 @@
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
-      "2023-02-27": 1440,
-      "2023-02-26": 1440
+      "2023-02-27": 1440
     }
   }
 ]
