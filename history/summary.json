@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
     "status": "up",
-    "uptime": "96.93%",
+    "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
     "time": 905,
-    "timeDay": 788,
-    "timeWeek": 924,
+    "timeDay": 973,
+    "timeWeek": 931,
     "timeMonth": 932,
     "timeYear": 907,
     "dailyMinutesDown": {
@@ -46,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
     "time": 1121,
-    "timeDay": 917,
-    "timeWeek": 1105,
-    "timeMonth": 1134,
+    "timeDay": 1205,
+    "timeWeek": 1121,
+    "timeMonth": 1133,
     "timeYear": 1125,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -68,15 +68,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/navadhiti.com.ico",
     "slug": "navadhiti",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "95.34%",
     "time": 1405,
-    "timeDay": 1297,
-    "timeWeek": 1534,
-    "timeMonth": 1560,
+    "timeDay": 1637,
+    "timeWeek": 1549,
+    "timeMonth": 1561,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2024-01-25": 16,
@@ -99,8 +99,7 @@
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
-      "2023-03-09": 1440,
-      "2023-03-08": 1440
+      "2023-03-09": 1440
     }
   },
   {
@@ -109,15 +108,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "up",
-    "uptime": "86.36%",
+    "uptime": "86.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.23%",
+    "uptimeYear": "89.50%",
     "time": 884,
-    "timeDay": 756,
-    "timeWeek": 883,
-    "timeMonth": 898,
+    "timeDay": 908,
+    "timeWeek": 888,
+    "timeMonth": 896,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -160,8 +159,7 @@
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
-      "2023-03-09": 1440,
-      "2023-03-08": 1440
+      "2023-03-09": 1440
     }
   }
 ]
