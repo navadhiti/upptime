@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
     "status": "up",
-    "uptime": "96.97%",
+    "uptime": "96.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
     "time": 905,
-    "timeDay": 902,
+    "timeDay": 787,
     "timeWeek": 890,
-    "timeMonth": 929,
+    "timeMonth": 922,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -46,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
     "time": 1120,
-    "timeDay": 1082,
-    "timeWeek": 1071,
-    "timeMonth": 1127,
+    "timeDay": 994,
+    "timeWeek": 1082,
+    "timeMonth": 1119,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -68,16 +68,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/navadhiti.com.ico",
     "slug": "navadhiti",
     "status": "up",
-    "uptime": "93.11%",
+    "uptime": "93.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.98%",
     "time": 1406,
-    "timeDay": 1478,
-    "timeWeek": 1483,
-    "timeMonth": 1559,
-    "timeYear": 1532,
+    "timeDay": 1343,
+    "timeWeek": 1489,
+    "timeMonth": 1548,
+    "timeYear": 1531,
     "dailyMinutesDown": {
       "2024-01-25": 16,
       "2023-10-14": 14,
@@ -93,8 +93,7 @@
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
-      "2023-03-15": 1440,
-      "2023-03-14": 1440
+      "2023-03-15": 1440
     }
   },
   {
@@ -103,15 +102,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "up",
-    "uptime": "86.55%",
+    "uptime": "86.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.87%",
-    "time": 884,
-    "timeDay": 847,
-    "timeWeek": 847,
-    "timeMonth": 893,
+    "uptimeYear": "91.15%",
+    "time": 883,
+    "timeDay": 809,
+    "timeWeek": 855,
+    "timeMonth": 889,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -148,8 +147,7 @@
       "2023-04-20": 1440,
       "2023-04-19": 393,
       "2023-03-16": 132,
-      "2023-03-15": 1440,
-      "2023-03-14": 1440
+      "2023-03-15": 1440
     }
   }
 ]
