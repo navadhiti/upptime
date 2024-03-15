@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
     "time": 905,
-    "timeDay": 996,
-    "timeWeek": 893,
+    "timeDay": 874,
+    "timeWeek": 884,
     "timeMonth": 922,
     "timeYear": 907,
     "dailyMinutesDown": {
@@ -40,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
     "time": 1120,
-    "timeDay": 1212,
-    "timeWeek": 1083,
-    "timeMonth": 1121,
+    "timeDay": 1106,
+    "timeWeek": 1074,
+    "timeMonth": 1120,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -68,16 +68,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/navadhiti.com.ico",
     "slug": "navadhiti",
     "status": "up",
-    "uptime": "93.14%",
+    "uptime": "93.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.26%",
+    "uptimeYear": "97.53%",
     "time": 1407,
-    "timeDay": 1604,
-    "timeWeek": 1485,
+    "timeDay": 1491,
+    "timeWeek": 1459,
     "timeMonth": 1546,
-    "timeYear": 1532,
+    "timeYear": 1531,
     "dailyMinutesDown": {
       "2024-01-25": 16,
       "2023-10-14": 14,
@@ -91,8 +91,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -101,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "up",
-    "uptime": "86.61%",
+    "uptime": "86.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.42%",
+    "uptimeYear": "91.70%",
     "time": 884,
-    "timeDay": 946,
-    "timeWeek": 860,
-    "timeMonth": 889,
+    "timeDay": 872,
+    "timeWeek": 851,
+    "timeMonth": 888,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -144,8 +143,7 @@
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
-      "2023-04-19": 393,
-      "2023-03-16": 132
+      "2023-04-19": 393
     }
   }
 ]
