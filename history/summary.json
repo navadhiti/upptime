@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "96.42%",
-    "time": 904,
-    "timeDay": 916,
-    "timeWeek": 857,
-    "timeMonth": 885,
+    "uptimeYear": "96.50%",
+    "time": 903,
+    "timeDay": 825,
+    "timeWeek": 837,
+    "timeMonth": 884,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2024-04-04": 6,
@@ -29,8 +29,7 @@
       "2023-08-22": 829,
       "2023-04-24": 1208,
       "2023-04-23": 1440,
-      "2023-04-22": 1440,
-      "2023-04-21": 1440
+      "2023-04-22": 1440
     }
   },
   {
@@ -43,20 +42,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.92%",
     "time": 1117,
-    "timeDay": 1080,
-    "timeWeek": 1029,
-    "timeMonth": 1079,
-    "timeYear": 1112,
+    "timeDay": 991,
+    "timeWeek": 1006,
+    "timeMonth": 1076,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2023-10-05": 50,
       "2023-10-04": 946,
       "2023-08-24": 532,
       "2023-08-23": 1440,
       "2023-08-22": 828,
-      "2023-06-01": 10,
-      "2023-04-21": 441
+      "2023-06-01": 10
     }
   },
   {
@@ -65,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/navadhiti.com.ico",
     "slug": "navadhiti",
     "status": "up",
-    "uptime": "93.64%",
-    "uptimeDay": "87.88%",
+    "uptime": "93.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.76%",
     "time": 1413,
-    "timeDay": 1411,
-    "timeWeek": 1411,
-    "timeMonth": 1478,
-    "timeYear": 1529,
+    "timeDay": 1303,
+    "timeWeek": 1373,
+    "timeMonth": 1472,
+    "timeYear": 1528,
     "dailyMinutesDown": {
       "2024-04-18": 175,
       "2024-01-25": 16,
@@ -91,15 +89,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "up",
-    "uptime": "87.64%",
+    "uptime": "87.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.99%",
+    "uptimeYear": "92.07%",
     "time": 882,
-    "timeDay": 889,
-    "timeWeek": 826,
-    "timeMonth": 864,
+    "timeDay": 789,
+    "timeWeek": 804,
+    "timeMonth": 861,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2023-10-05": 50,
@@ -131,8 +129,7 @@
       "2023-07-26": 22,
       "2023-04-24": 1044,
       "2023-04-23": 1440,
-      "2023-04-22": 1440,
-      "2023-04-21": 1440
+      "2023-04-22": 1440
     }
   }
 ]
