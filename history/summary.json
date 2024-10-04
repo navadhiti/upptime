@@ -16,8 +16,7 @@
     "timeMonth": 907,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2024-04-04": 6,
-      "2023-10-05": 50
+      "2024-04-04": 6
     }
   },
   {
@@ -27,7 +26,7 @@
     "slug": "barefoot-edu",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "17.84%",
+    "uptimeDay": "19.93%",
     "uptimeWeek": "60.91%",
     "uptimeMonth": "91.01%",
     "uptimeYear": "99.25%",
@@ -63,8 +62,7 @@
       "2024-08-29": 399,
       "2024-04-18": 175,
       "2024-01-25": 16,
-      "2023-10-14": 14,
-      "2023-10-05": 50
+      "2023-10-14": 14
     }
   },
   {
@@ -83,8 +81,6 @@
     "timeWeek": 875,
     "timeMonth": 869,
     "timeYear": 900,
-    "dailyMinutesDown": {
-      "2023-10-05": 50
-    }
+    "dailyMinutesDown": {}
   }
 ]
