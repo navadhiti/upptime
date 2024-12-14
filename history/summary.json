@@ -6,8 +6,8 @@
     "slug": "varitra",
     "status": "up",
     "uptime": "94.45%",
-    "uptimeDay": "59.12%",
-    "uptimeWeek": "8.45%",
+    "uptimeDay": "61.07%",
+    "uptimeWeek": "8.72%",
     "uptimeMonth": "13.52%",
     "uptimeYear": "92.79%",
     "time": 910,
@@ -51,12 +51,12 @@
     "url": "https://barefootedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "96.11%",
-    "uptimeDay": "19.40%",
-    "uptimeWeek": "6.87%",
-    "uptimeMonth": "9.21%",
-    "uptimeYear": "92.43%",
+    "uptimeDay": "21.34%",
+    "uptimeWeek": "7.15%",
+    "uptimeMonth": "9.31%",
+    "uptimeYear": "92.44%",
     "time": 1133,
     "timeDay": 1145,
     "timeWeek": 1140,
@@ -92,7 +92,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1401,
       "2024-11-16": 1183,
-      "2024-11-15": 313
+      "2024-11-15": 266
     }
   },
   {
