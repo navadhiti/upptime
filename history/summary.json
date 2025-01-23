@@ -51,11 +51,11 @@
     "url": "https://barefootedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "19.93%",
-    "uptimeWeek": "58.93%",
-    "uptimeMonth": "90.55%",
+    "uptimeDay": "20.29%",
+    "uptimeWeek": "58.98%",
+    "uptimeMonth": "90.56%",
     "uptimeYear": "99.21%",
     "time": 1139,
     "timeDay": 1138,
@@ -67,7 +67,7 @@
       "2025-01-22": 1098,
       "2025-01-21": 1097,
       "2025-01-20": 1268,
-      "2025-01-19": 44
+      "2025-01-19": 39
     }
   },
   {
@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
     "status": "up",
-    "uptime": "92.24%",
+    "uptime": "92.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
