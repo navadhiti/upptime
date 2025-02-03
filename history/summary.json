@@ -4,9 +4,9 @@
     "url": "https://varitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
-    "status": "up",
+    "status": "down",
     "uptime": "94.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "92.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 930,
     "timeYear": 916,
     "dailyMinutesDown": {
+      "2025-02-03": 0,
       "2025-01-29": 5,
       "2024-12-13": 719,
       "2024-12-12": 1440,
@@ -52,11 +53,11 @@
     "url": "https://barefootedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "14.29%",
-    "uptimeWeek": "65.68%",
-    "uptimeMonth": "92.10%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "14.74%",
+    "uptimeWeek": "65.77%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 1142,
     "timeDay": 1197,
@@ -67,7 +68,7 @@
       "2025-02-03": 503,
       "2025-02-02": 1184,
       "2025-02-01": 1151,
-      "2025-01-31": 619
+      "2025-01-31": 610
     }
   },
   {
@@ -97,10 +98,10 @@
     "url": "https://karunodaya.in/",
     "icon": "https://icons.duckduckgo.com/ip3/karunodaya.in.ico",
     "slug": "karunodaya",
-    "status": "up",
+    "status": "down",
     "uptime": "92.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 900,
@@ -109,6 +110,7 @@
     "timeMonth": 923,
     "timeYear": 901,
     "dailyMinutesDown": {
+      "2025-02-03": 1,
       "2025-01-29": 3
     }
   }
