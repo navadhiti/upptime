@@ -57,7 +57,7 @@
     "uptime": "97.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.49%",
+    "uptimeMonth": "31.45%",
     "uptimeYear": "94.29%",
     "time": 1147,
     "timeDay": 0,
@@ -65,7 +65,7 @@
     "timeMonth": 1178,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2025-03-29": 1219,
+      "2025-03-29": 1233,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -137,21 +137,21 @@
     "url": "https://doxapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
-    "status": "up",
-    "uptime": "90.03%",
-    "uptimeDay": "41.68%",
-    "uptimeWeek": "83.75%",
-    "uptimeMonth": "90.03%",
-    "uptimeYear": "90.03%",
-    "time": 107,
-    "timeDay": 105,
+    "status": "down",
+    "uptime": "90.10%",
+    "uptimeDay": "42.16%",
+    "uptimeWeek": "83.84%",
+    "uptimeMonth": "90.10%",
+    "uptimeYear": "90.10%",
+    "time": 108,
+    "timeDay": 107,
     "timeWeek": 112,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-03-29": 726,
+      "2025-03-29": 727,
       "2025-03-28": 711,
-      "2025-03-27": 196
+      "2025-03-27": 186
     }
   }
 ]
