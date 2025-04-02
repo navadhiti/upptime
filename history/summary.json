@@ -54,10 +54,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
     "status": "down",
-    "uptime": "96.98%",
+    "uptime": "96.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.55%",
+    "uptimeMonth": "18.51%",
     "uptimeYear": "93.21%",
     "time": 1147,
     "timeDay": 0,
@@ -65,7 +65,7 @@
     "timeMonth": 1181,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2025-04-02": 1124,
+      "2025-04-02": 1142,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -141,22 +141,22 @@
     "url": "https://doxapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
-    "status": "up",
-    "uptime": "92.72%",
-    "uptimeDay": "86.94%",
-    "uptimeWeek": "84.04%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "92.72%",
+    "status": "down",
+    "uptime": "92.75%",
+    "uptimeDay": "86.89%",
+    "uptimeWeek": "84.09%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "92.75%",
     "time": 112,
     "timeDay": 145,
     "timeWeek": 114,
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-04-02": 175,
+      "2025-04-02": 176,
       "2025-04-01": 446,
       "2025-03-31": 756,
-      "2025-03-30": 230
+      "2025-03-30": 225
     }
   }
 ]
