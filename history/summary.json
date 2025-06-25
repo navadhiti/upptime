@@ -54,21 +54,21 @@
     "slug": "barefoot-edu",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "28.20%",
-    "uptimeWeek": "59.07%",
-    "uptimeMonth": "90.58%",
+    "uptimeDay": "28.19%",
+    "uptimeWeek": "58.58%",
+    "uptimeMonth": "90.47%",
     "uptimeYear": "99.21%",
     "time": 1151,
-    "timeDay": 1149,
-    "timeWeek": 1155,
+    "timeDay": 1151,
+    "timeWeek": 1157,
     "timeMonth": 1157,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2025-06-25": 707,
+      "2025-06-25": 764,
       "2025-06-24": 1065,
       "2025-06-23": 1165,
       "2025-06-22": 1113,
-      "2025-06-21": 75
+      "2025-06-21": 67
     }
   },
   {
@@ -77,7 +77,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/navadhiti.com.ico",
     "slug": "navadhiti",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
