@@ -54,7 +54,7 @@
     "slug": "barefoot-edu",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "17.69%",
+    "uptimeDay": "18.11%",
     "uptimeWeek": "50.31%",
     "uptimeMonth": "88.57%",
     "uptimeYear": "99.05%",
@@ -119,19 +119,19 @@
     "url": "https://doxapply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
-    "status": "up",
-    "uptime": "95.47%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "99.15%",
+    "status": "down",
+    "uptime": "95.48%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "95.47%",
+    "uptimeYear": "95.48%",
     "time": 115,
-    "timeDay": 126,
+    "timeDay": 127,
     "timeWeek": 136,
     "timeMonth": 138,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-07-11": 87,
+      "2025-07-11": 88,
       "2025-05-01": 830,
       "2025-04-30": 1434,
       "2025-04-29": 76,
@@ -143,7 +143,7 @@
       "2025-04-09": 140,
       "2025-04-08": 196,
       "2025-04-07": 180,
-      "2025-04-06": 84
+      "2025-04-06": 77
     }
   }
 ]
