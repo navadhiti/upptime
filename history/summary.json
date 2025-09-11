@@ -55,8 +55,8 @@
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "21.51%",
-    "uptimeWeek": "49.00%",
-    "uptimeMonth": "88.26%",
+    "uptimeWeek": "48.92%",
+    "uptimeMonth": "88.25%",
     "uptimeYear": "99.02%",
     "time": 1193,
     "timeDay": 1154,
@@ -64,11 +64,11 @@
     "timeMonth": 1184,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2025-09-11": 791,
+      "2025-09-11": 832,
       "2025-09-10": 1255,
       "2025-09-09": 1231,
       "2025-09-08": 1140,
-      "2025-09-07": 722
+      "2025-09-07": 689
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
     "status": "down",
-    "uptime": "62.14%",
+    "uptime": "62.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.14%",
+    "uptimeYear": "62.13%",
     "time": 116,
     "timeDay": 185,
     "timeWeek": 195,
     "timeMonth": 146,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-09-11": 1028,
+      "2025-09-11": 1078,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
