@@ -13,7 +13,7 @@
     "time": 1088,
     "timeDay": 3783,
     "timeWeek": 2011,
-    "timeMonth": 1996,
+    "timeMonth": 1928,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-10-20": 43,
@@ -71,7 +71,7 @@
     "slug": "barefoot-edu",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "18.63%",
+    "uptimeDay": "21.04%",
     "uptimeWeek": "48.61%",
     "uptimeMonth": "88.18%",
     "uptimeYear": "99.01%",
@@ -153,7 +153,8 @@
     "timeMonth": 170,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-10-23": 1436,
+      "2025-10-24": 31,
+      "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
