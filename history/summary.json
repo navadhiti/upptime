@@ -75,8 +75,7 @@
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
-      "2024-12-01": 1440,
-      "2024-11-30": 1440
+      "2024-12-01": 1440
     }
   },
   {
@@ -156,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
     "status": "down",
-    "uptime": "42.94%",
+    "uptime": "42.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.94%",
+    "uptimeYear": "42.93%",
     "time": 119,
     "timeDay": 203,
     "timeWeek": 213,
     "timeMonth": 181,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-11-30": 1,
+      "2025-11-30": 40,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
