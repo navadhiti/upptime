@@ -6,15 +6,15 @@
     "slug": "varitra",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "99.77%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "99.78%",
     "time": 1469,
     "timeDay": 2614,
     "timeWeek": 2663,
-    "timeMonth": 2101,
-    "timeYear": 1584,
+    "timeMonth": 2097,
+    "timeYear": 1583,
     "dailyMinutesDown": {
       "2025-12-18": 18,
       "2025-12-17": 24,
@@ -37,7 +37,7 @@
       "2025-11-30": 47,
       "2025-11-29": 106,
       "2025-11-28": 42,
-      "2025-11-27": 20
+      "2025-11-27": 9
     }
   },
   {
@@ -48,8 +48,8 @@
     "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "20.45%",
-    "uptimeWeek": "45.73%",
-    "uptimeMonth": "87.51%",
+    "uptimeWeek": "45.59%",
+    "uptimeMonth": "87.48%",
     "uptimeYear": "98.96%",
     "time": 1195,
     "timeDay": 1126,
@@ -57,7 +57,7 @@
     "timeMonth": 1144,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-12-18": 1120,
+      "2025-12-18": 1135,
       "2025-12-17": 1178,
       "2025-12-16": 1241,
       "2025-12-15": 1141,
@@ -129,7 +129,7 @@
     "timeMonth": 159,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-12-18": 1406,
+      "2025-12-18": 1421,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
