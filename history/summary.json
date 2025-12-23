@@ -47,14 +47,14 @@
     "url": "https://barefootedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "19.30%",
-    "uptimeWeek": "48.90%",
-    "uptimeMonth": "88.24%",
+    "uptimeDay": "19.87%",
+    "uptimeWeek": "48.95%",
+    "uptimeMonth": "88.25%",
     "uptimeYear": "99.02%",
     "time": 1195,
-    "timeDay": 1124,
+    "timeDay": 1131,
     "timeWeek": 1134,
     "timeMonth": 1144,
     "timeYear": 1196,
@@ -63,7 +63,7 @@
       "2025-12-22": 1082,
       "2025-12-21": 1246,
       "2025-12-20": 1193,
-      "2025-12-19": 717
+      "2025-12-19": 712
     }
   },
   {
@@ -131,7 +131,7 @@
     "timeMonth": 158,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-12-23": 1125,
+      "2025-12-23": 1136,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
