@@ -52,7 +52,7 @@
     "slug": "barefoot-edu",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "23.53%",
+    "uptimeDay": "25.26%",
     "uptimeWeek": "51.48%",
     "uptimeMonth": "88.83%",
     "uptimeYear": "99.07%",
@@ -135,7 +135,7 @@
     "timeMonth": 143,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-12-29": 16,
+      "2025-12-29": 41,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
