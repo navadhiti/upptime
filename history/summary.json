@@ -4,17 +4,17 @@
     "url": "https://varitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.51%",
+    "uptimeDay": "97.50%",
     "uptimeWeek": "96.27%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "99.78%",
     "time": 1667,
-    "timeDay": 2812,
-    "timeWeek": 2506,
-    "timeMonth": 2602,
-    "timeYear": 1774,
+    "timeDay": 2609,
+    "timeWeek": 2480,
+    "timeMonth": 2594,
+    "timeYear": 1773,
     "dailyMinutesDown": {
       "2026-01-10": 9,
       "2026-01-09": 79,
@@ -48,7 +48,7 @@
       "2025-12-10": 25,
       "2025-12-09": 65,
       "2025-12-08": 7,
-      "2025-12-07": 14
+      "2025-12-07": 5
     }
   },
   {
@@ -56,12 +56,12 @@
     "url": "https://barefootedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/barefootedu.com.ico",
     "slug": "barefoot-edu",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "27.33%",
-    "uptimeWeek": "48.77%",
-    "uptimeMonth": "88.21%",
-    "uptimeYear": "99.02%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "27.47%",
+    "uptimeWeek": "51.39%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "99.07%",
     "time": 1196,
     "timeDay": 1108,
     "timeWeek": 1149,
@@ -72,7 +72,7 @@
       "2026-01-09": 1092,
       "2026-01-08": 1195,
       "2026-01-07": 1183,
-      "2026-01-06": 1171
+      "2026-01-06": 906
     }
   },
   {
@@ -140,7 +140,7 @@
     "timeMonth": 142,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2026-01-10": 711,
+      "2026-01-10": 716,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
