@@ -1,7 +1,7 @@
 url: https://varitra.com
-status: up
-code: 200
-responseTime: 3911
-lastUpdated: 2026-03-10T23:05:20.170Z
+status: down
+code: 415
+responseTime: 967
+lastUpdated: 2026-03-11T19:45:56.674Z
 startTime: 2023-01-04T11:31:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
