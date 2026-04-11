@@ -4,19 +4,19 @@
     "url": "https://varitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "82.48%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "95.98%",
+    "uptimeDay": "82.44%",
+    "uptimeWeek": "93.49%",
+    "uptimeMonth": "96.01%",
     "uptimeYear": "99.61%",
-    "time": 2184,
-    "timeDay": 2318,
-    "timeWeek": 2509,
-    "timeMonth": 3158,
-    "timeYear": 2293,
+    "time": 2183,
+    "timeDay": 2257,
+    "timeWeek": 2479,
+    "timeMonth": 3156,
+    "timeYear": 2292,
     "dailyMinutesDown": {
-      "2026-04-11": 233,
+      "2026-04-11": 234,
       "2026-04-10": 133,
       "2026-04-09": 134,
       "2026-04-08": 28,
@@ -48,7 +48,7 @@
       "2026-03-09": 40,
       "2026-03-08": 88,
       "2026-03-07": 78,
-      "2026-03-06": 21
+      "2026-03-06": 13
     }
   },
   {
@@ -68,7 +68,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2026-04-11": 1336,
+      "2026-04-11": 1349,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
@@ -206,7 +206,7 @@
     "timeMonth": 105,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2026-04-11": 1336,
+      "2026-04-11": 1350,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
