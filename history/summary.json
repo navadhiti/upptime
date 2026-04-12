@@ -4,18 +4,19 @@
     "url": "https://varitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "81.07%",
-    "uptimeWeek": "93.12%",
+    "uptimeDay": "81.03%",
+    "uptimeWeek": "93.11%",
     "uptimeMonth": "95.94%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 2190,
-    "timeDay": 2290,
-    "timeWeek": 2480,
-    "timeMonth": 3145,
-    "timeYear": 2294,
+    "timeDay": 2246,
+    "timeWeek": 2458,
+    "timeMonth": 3133,
+    "timeYear": 2293,
     "dailyMinutesDown": {
+      "2026-04-12": 1,
       "2026-04-11": 271,
       "2026-04-10": 133,
       "2026-04-09": 134,
@@ -47,7 +48,7 @@
       "2026-03-10": 38,
       "2026-03-09": 40,
       "2026-03-08": 88,
-      "2026-03-07": 61
+      "2026-03-07": 44
     }
   },
   {
@@ -67,7 +68,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2026-04-12": 56,
+      "2026-04-12": 59,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -195,7 +196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
     "status": "down",
-    "uptime": "28.28%",
+    "uptime": "28.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -206,7 +207,7 @@
     "timeMonth": 108,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2026-04-12": 57,
+      "2026-04-12": 59,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
