@@ -4,17 +4,17 @@
     "url": "https://varitra.com",
     "icon": "https://icons.duckduckgo.com/ip3/varitra.com.ico",
     "slug": "varitra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "70.28%",
-    "uptimeWeek": "77.99%",
-    "uptimeMonth": "89.67%",
+    "uptimeDay": "68.20%",
+    "uptimeWeek": "77.88%",
+    "uptimeMonth": "89.60%",
     "uptimeYear": "98.92%",
-    "time": 2517,
-    "timeDay": 7139,
-    "timeWeek": 5526,
-    "timeMonth": 4853,
-    "timeYear": 2667,
+    "time": 2521,
+    "timeDay": 7191,
+    "timeWeek": 5585,
+    "timeMonth": 4897,
+    "timeYear": 2672,
     "dailyMinutesDown": {
       "2026-04-20": 17,
       "2026-04-21": 124,
@@ -54,7 +54,7 @@
       "2026-06-09": 519,
       "2026-06-10": 202,
       "2026-06-11": 278,
-      "2026-06-12": 428
+      "2026-06-12": 458
     }
   },
   {
@@ -71,7 +71,7 @@
     "time": 1198,
     "timeDay": 311,
     "timeWeek": 410,
-    "timeMonth": 365,
+    "timeMonth": 372,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2026-01-30": 1041,
@@ -152,7 +152,7 @@
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
-      "2026-06-12": 1372,
+      "2026-06-12": 1402,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -221,7 +221,7 @@
     "time": 168,
     "timeDay": 166,
     "timeWeek": 187,
-    "timeMonth": 165,
+    "timeMonth": 166,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-08-01": 423,
@@ -246,7 +246,7 @@
     "timeDay": 938,
     "timeWeek": 865,
     "timeMonth": 895,
-    "timeYear": 902,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2025-08-16": 17,
       "2026-03-23": 20
@@ -258,7 +258,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
     "status": "up",
-    "uptime": "32.79%",
+    "uptime": "32.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -266,8 +266,8 @@
     "time": 146,
     "timeDay": 126,
     "timeWeek": 154,
-    "timeMonth": 140,
-    "timeYear": 141,
+    "timeMonth": 141,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2025-07-11": 400,
       "2026-05-06": 61,
