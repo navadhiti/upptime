@@ -6,15 +6,15 @@
     "slug": "varitra",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "85.41%",
-    "uptimeWeek": "80.23%",
-    "uptimeMonth": "84.69%",
+    "uptimeDay": "83.32%",
+    "uptimeWeek": "80.13%",
+    "uptimeMonth": "84.62%",
     "uptimeYear": "98.66%",
-    "time": 2730,
+    "time": 2732,
     "timeDay": 9931,
-    "timeWeek": 8379,
-    "timeMonth": 6239,
-    "timeYear": 2935,
+    "timeWeek": 8407,
+    "timeMonth": 6232,
+    "timeYear": 2936,
     "dailyMinutesDown": {
       "2026-05-16": 72,
       "2026-05-17": 41,
@@ -44,7 +44,7 @@
       "2026-06-17": 339,
       "2026-06-18": 150,
       "2026-06-20": 778,
-      "2026-06-21": 169
+      "2026-06-21": 199
     }
   },
   {
@@ -62,7 +62,7 @@
     "timeDay": 301,
     "timeWeek": 282,
     "timeMonth": 358,
-    "timeYear": 1198,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2026-01-30": 1041,
       "2026-01-31": 1043,
@@ -142,7 +142,7 @@
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
-      "2026-06-21": 1224,
+      "2026-06-21": 1254,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -257,7 +257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
     "status": "up",
-    "uptime": "34.09%",
+    "uptime": "34.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
