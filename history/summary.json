@@ -7,13 +7,13 @@
     "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "80.36%",
-    "uptimeWeek": "76.53%",
-    "uptimeMonth": "83.81%",
-    "uptimeYear": "98.65%",
+    "uptimeWeek": "76.16%",
+    "uptimeMonth": "83.73%",
+    "uptimeYear": "98.64%",
     "time": 2769,
     "timeDay": 2532,
     "timeWeek": 2629,
-    "timeMonth": 5043,
+    "timeMonth": 5044,
     "timeYear": 2936,
     "dailyMinutesDown": {
       "2026-06-12": 130,
@@ -36,7 +36,7 @@
       "2026-06-30": 302,
       "2026-07-01": 285,
       "2026-07-02": 298,
-      "2026-07-03": 0
+      "2026-07-03": 37
     }
   },
   {
@@ -49,7 +49,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.16%",
+    "uptimeYear": "59.15%",
     "time": 1197,
     "timeDay": 207,
     "timeWeek": 370,
@@ -134,7 +134,7 @@
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
-      "2026-07-03": 18,
+      "2026-07-03": 55,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -261,7 +261,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doxapply.com.ico",
     "slug": "dox-apply",
     "status": "up",
-    "uptime": "35.65%",
+    "uptime": "35.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
